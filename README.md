@@ -6,7 +6,7 @@ Understanding how brain regions organize into functional modules is key to unrav
 
 Browse the folders and scripts here to find everything to get started, from data preprocessing to running genetic community detection and visualizing results. Follow the instructions in this README to install dependencies, execute analyses, and cite our work.
 
-![Methodology Pipeline](/multi-objective.png)
+![Methodology Pipeline](/m-a.png)
 
 Thank you for exploring our code! Feel free to open issues or contribute to advance connectome science.
 
